@@ -15,8 +15,8 @@ public class TestCircleRectangle {
         System.out.println("The perimeter is " + rectangle.getPerimeter());
 
 
-        Circle circle1 = new Circle();
-        Circle circle2 = new Circle();
-        System.out.println("\n" + circle1.equals(circle2));
+        Object circle1 = new Circle();
+        Object circle2 = new Circle();
+        System.out.println("\nIs both radius equal: " + circle1.equals(circle2));
     }
 }

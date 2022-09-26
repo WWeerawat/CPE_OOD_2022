@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ee5c794-ba50-4635-82bf-4a62726a09d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/TestCircleRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/TestTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment5/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment5/Assignment5_1075.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment5/~$signment5_1075.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment5/TestCircleRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment5/TestCircleRectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -66,7 +63,7 @@
       <updated>1663816380307</updated>
       <workItem from="1663816381714" duration="771000" />
       <workItem from="1663817163550" duration="1635000" />
-      <workItem from="1664205400246" duration="3945000" />
+      <workItem from="1664205400246" duration="4166000" />
     </task>
     <servers />
   </component>
@@ -83,6 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

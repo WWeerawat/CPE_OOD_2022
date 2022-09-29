@@ -1,4 +1,4 @@
-package Assignment5;
+package Assignment4;
 
 public class Triangle extends GeometricObject {
     private double side1 = 1f;

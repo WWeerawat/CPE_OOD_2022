@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ee5c794-ba50-4635-82bf-4a62726a09d9" name="Changes" comment="" />
+    <list default="true" id="6ee5c794-ba50-4635-82bf-4a62726a09d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Assignment4/Assignment4_1075.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment4/Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment5/Assignment4_1075.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment5/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment5/GeometricObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment5/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment5/TestCircleRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment5/TestTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment5/Triangle.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +56,7 @@
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,6 +70,7 @@
       <workItem from="1663816381714" duration="771000" />
       <workItem from="1663817163550" duration="1635000" />
       <workItem from="1664205400246" duration="4213000" />
+      <workItem from="1664420783517" duration="2699000" />
     </task>
     <servers />
   </component>

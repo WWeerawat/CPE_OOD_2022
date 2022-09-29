@@ -1,4 +1,4 @@
-package Assignment5;
+package Assignment4;
 
 public class Circle extends GeometricObject {
 
@@ -36,14 +36,17 @@ public class Circle extends GeometricObject {
         return 2 * radius;
     }
 
+    public void printCircle() {
+        System.out.println("The circle is created " + super.getDateCreated() + " and the radius is " + radius);
+    }
+
     @Override
     public String toString() {
         return "A circle created on " + getDateCreated() + " color: " + getColor() + " and filled: " + isFilled();
     }
 
-    public boolean equals(Circle circle) {
-
-        return this.radius == circle.radius;
+    public boolean equals(Object circle) {
+        return this.radius == ((Circle) circle).radius;
     }
 
 }

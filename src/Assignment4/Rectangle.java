@@ -1,4 +1,4 @@
-package Assignment5;
+package Assignment4;
 
 public class Rectangle extends GeometricObject {
 

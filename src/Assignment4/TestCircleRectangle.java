@@ -1,4 +1,4 @@
-package Assignment5;
+package Assignment4;
 
 public class TestCircleRectangle {
     public static void main(String[] args) {
@@ -18,5 +18,7 @@ public class TestCircleRectangle {
         Object circle1 = new Circle();
         Object circle2 = new Circle();
         System.out.println("\nIs both radius equal: " + circle1.equals(circle2));
+
+
     }
 }
